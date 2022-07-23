@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 from prompt_toolkit.shortcuts import (message_dialog, input_dialog,
                                       button_dialog)
 
